@@ -1,1 +1,1 @@
-# confolutedKernel
+# convolutedKernel (image processing)
